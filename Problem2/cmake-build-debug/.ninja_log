@@ -1,0 +1,13 @@
+# ninja log v5
+20	554	6727217295209584	CMakeFiles/Problem2.dir/FractionCalculator.cpp.obj	3d376bde75ddbc23
+23	558	6727217295219556	CMakeFiles/Problem2.dir/Fraction.cpp.obj	d2389b86660c39c3
+566	1470	6727217304444884	Problem2.exe	428e0d154bce1a7f
+1	565	6727217295399076	CMakeFiles/Problem2.dir/main.cpp.obj	ce0917f39c3d9ac4
+21	724	6739995486869840	CMakeFiles/Problem2.dir/Fraction.cpp.obj	e8881be6bfa479b8
+24	744	6739995487049366	CMakeFiles/Problem2.dir/main.cpp.obj	2d324926682613e0
+3	757	6739995487238849	CMakeFiles/Problem2.dir/FractionCalculator.cpp.obj	de3f5081e6f80a39
+757	1031	6739995489921676	Problem2.exe	428e0d154bce1a7f
+10	1042	6742263999909585	CMakeFiles/Problem2.dir/Fraction.cpp.obj	e8881be6bfa479b8
+1043	3661	6742264026369482	Problem2.exe	428e0d154bce1a7f
+6	574	6742329435489445	CMakeFiles/Problem2.dir/FractionCalculator.cpp.obj	de3f5081e6f80a39
+574	2115	6742329449380663	Problem2.exe	428e0d154bce1a7f
